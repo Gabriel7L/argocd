@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: goapp
-        image: gabriel7l/argocdtest:latest
+        image: goapp
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
