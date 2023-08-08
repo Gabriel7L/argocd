@@ -7,6 +7,6 @@ resources:
 namespace: goapp
 
 images:
-  - name: goapp
-    newName: goapp
-    newTag: latest
+- name: goapp
+  newName: gabriel7l/argocdtest
+  newTag: c15c50e35d174d5970243e8854fe5ca16da52032
